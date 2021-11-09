@@ -1,6 +1,7 @@
-## DODAS
+<img src="https://avatars.githubusercontent.com/u/40432807?s=200&v=4" alt="DODAS"
+	title="DODAS logo" width="auto" height="100" />
 
-Welcome! 👋
+## Welcome! 👋
 
 DODAS stands for Dynamic On Demand Analysis Service DODAS. It is a Platform as a Service tool built combining several solutions and products.
 
